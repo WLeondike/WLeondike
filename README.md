@@ -1,9 +1,9 @@
-# Hi there 👋, I'm [William Leondike](https://wleondike.github.io/responsivePortfolio/)
+# Hey there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm [William Leondike](https://wleondike.github.io/responsivePortfolio/)
 
-[![Github Icon](https://img.shields.io/github/followers/wleondike?color=white&label=Follow%20Me&style=social)](https://github.com/wleondike)
-<a href="https://www.linkedin.com/in/williamleondike/">
-  <img align="left" alt="William's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
+<a href="https://github.com/wleondike/"><img src="https://img.shields.io/github/followers/wleondike?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+<a href="https://github.com/wleondike?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+<img src="http://views.whatilearened.today/views/github/wleondike/views.svg"/>
 
 I am a Full-Stack Web Developer working out of Orlando, Florida🌴
 
@@ -27,7 +27,7 @@ While being very passionate about the code I write💻; I will continue to devel
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### Stats:
-![William's stats](https://github-readme-stats.vercel.app/api?username=WLeondike&show_icons=true)
+[![William's github stats](https://github-readme-stats.vercel.app/api?username=wleondike&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/wleondike)
 
 <!--
 - 🔭 I’m currently working on ...
