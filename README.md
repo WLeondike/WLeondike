@@ -12,7 +12,7 @@ While being very passionate about the code I write💻; I will continue to devel
 
 ## Randomness <img src="https://emojis.slackmojis.com/emojis/images/1498151468/2472/pug.gif?1498151468" width="20"/> 
 - 🔭 I’m currently working on:
-    - Full-Stack Development Certificate;
+    - Full-Stack Web Development Certificate;
     - [GitGud Together](https://github.com/lamcnguyen89/GitGud-Together);
 - 💬 Ask me about anything, I'd be happy to help;
 - ⚡ Fun fact: Mobile devices make up two thirds of web usage;
