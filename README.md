@@ -12,13 +12,12 @@ While being very passionate about the code I write💻; I will continue to devel
 
 ## Randomness <img src="https://emojis.slackmojis.com/emojis/images/1498151468/2472/pug.gif?1498151468" width="20"/> 
 - 🔭 I’m currently working on:
-    - <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="15"/> Full-Stack Web Development Certificate;
     - <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="15"/> Mastering React Fundamentals;
-    - <img src="https://emojis.slackmojis.com/emojis/images/1550189074/5326/foodtrucks.png?1550189074" width="15"/> [Meal Plan](https://github.com/christianwolfe/MealPlan) - a Full-Stack React Application;
+    - <img src="https://emojis.slackmojis.com/emojis/images/1550189074/5326/foodtrucks.png?1550189074" width="15"/> [MealPlan](https://github.com/christianwolfe/MealPlan) - a Full-Stack React Application;
 - 💬 Ask me about anything, I'd be happy to help;
 - ⚡ Fun fact: Mobile devices make up two thirds of web usage;
 - 📫 How to reach me: billyleondike@gmail.com;
-- 📝[Resume]();
+- 📝[Resume](https://docs.google.com/document/d/1-5KTcUkfxddZbwPTLD-VNzfAU5_ixpDAJDR1mzlfGCY/edit?usp=sharing);
 
 
 ### Languages <img src="https://emojis.slackmojis.com/emojis/images/1581480424/7795/vscode.png?1581480424" width="15"/>
@@ -37,7 +36,7 @@ While being very passionate about the code I write💻; I will continue to devel
 
 <hr> 
 
-<p style="text-align: center;"> Thanks for stopping by <img src="https://emojis.slackmojis.com/emojis/images/1579215792/7546/pickle_rick.gif?1579215792" width="20"/> Updated: 8/18/2020 <p>
+<p style="text-align: center;"> Thanks for stopping by <img src="https://emojis.slackmojis.com/emojis/images/1579215792/7546/pickle_rick.gif?1579215792" width="20"/> Updated: 8/27/2020 <p>
 
 <!--
 - 🔭 I’m currently working on ...
