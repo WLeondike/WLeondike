@@ -13,7 +13,7 @@ While being very passionate about the code I write💻; I will continue to devel
 ## Randomness <img src="https://emojis.slackmojis.com/emojis/images/1498151468/2472/pug.gif?1498151468" width="20"/> 
 - 🔭 I’m currently working on:
     - <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="15"/> Mastering React Fundamentals;
-    - <img src="https://emojis.slackmojis.com/emojis/images/1492722353/2078/looking.gif?1492722353" width="15"/> Getting employed as a developer
+    - <img src="https://emojis.slackmojis.com/emojis/images/1492722353/2078/looking.gif?1492722353" width="15"/> Getting employed as a developer;
 - 💬 Ask me about anything, I'd be happy to help;
 - ⚡ Fun fact: Mobile devices make up two thirds of web usage;
 - 📫 How to reach me: billyleondike@gmail.com;
